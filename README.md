@@ -1,2 +1,5 @@
 # MLM_Project
-Machine learning model for the MLM course.
+Repository for a machine learning model for the MLM course.
+Model created for predicting newborn birthweights.
+
+Authors: ???
